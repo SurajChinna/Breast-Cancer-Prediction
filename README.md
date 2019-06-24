@@ -6,7 +6,7 @@
 ------------
 
 # Breast Cancer Prediction
-> Predicts whether the cancer is Malignant or Benign
+> Predicts whether the type of breast cancer is Malignant or Benign
 
 ## Table of contents
 * [About Project](#about-project)
